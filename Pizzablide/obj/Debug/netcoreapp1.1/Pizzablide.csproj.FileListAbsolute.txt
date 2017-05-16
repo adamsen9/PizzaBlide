@@ -1,0 +1,9 @@
+c:\users\adamsen\documents\source\Pizzablide\Pizzablide\bin\Debug\netcoreapp1.1\Pizzablide.deps.json
+c:\users\adamsen\documents\source\Pizzablide\Pizzablide\bin\Debug\netcoreapp1.1\Pizzablide.runtimeconfig.json
+c:\users\adamsen\documents\source\Pizzablide\Pizzablide\bin\Debug\netcoreapp1.1\Pizzablide.runtimeconfig.dev.json
+c:\users\adamsen\documents\source\Pizzablide\Pizzablide\bin\Debug\netcoreapp1.1\Pizzablide.dll
+c:\users\adamsen\documents\source\Pizzablide\Pizzablide\bin\Debug\netcoreapp1.1\Pizzablide.pdb
+c:\users\adamsen\documents\source\Pizzablide\Pizzablide\obj\Debug\netcoreapp1.1\Pizzablide.csprojResolveAssemblyReference.cache
+c:\users\adamsen\documents\source\Pizzablide\Pizzablide\obj\Debug\netcoreapp1.1\Pizzablide.AssemblyInfo.cs
+c:\users\adamsen\documents\source\Pizzablide\Pizzablide\obj\Debug\netcoreapp1.1\Pizzablide.dll
+c:\users\adamsen\documents\source\Pizzablide\Pizzablide\obj\Debug\netcoreapp1.1\Pizzablide.pdb
