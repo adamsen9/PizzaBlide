@@ -15,7 +15,7 @@ namespace Pizzablide.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page. Hej";
+            ViewData["Message"] = "Your application description page. Hej.";
 
             return View();
         }
