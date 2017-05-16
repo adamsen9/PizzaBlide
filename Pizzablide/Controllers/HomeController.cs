@@ -24,6 +24,7 @@ namespace Pizzablide.Controllers
         {
             ViewData["Message"] = "Your contact page.";
 
+
             return View();
         }
 
